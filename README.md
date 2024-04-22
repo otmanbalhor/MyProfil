@@ -1,11 +1,11 @@
 # MyProfil
 
 <h1 align="center">Hi 👋, I'm Otman</h1>
-<h3 align="center">I'm passionate about web development and I'm currently training at BeCode to become a junior developer. My main skills are HTML, CSS, SCSS (SASS), JavaScript (DOM), PHP and SQL. I like to learn from others in order to progress and not stagnate. I'm currently studying <strong>Python</strong> and <strong>Django</strong>.</h3>
+<h3 align="center">I'm passionate about web development and I'm currently training at BeCode to become a junior developer. My main skills are HTML, CSS, SCSS (SASS), JavaScript (DOM), PHP and SQL. I like to learn from others in order to progress and not stagnate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otmanbalhor&label=Profile%20views&color=0e75b6&style=flat" alt="otmanbalhor" /> </p>
 
-- 🎓 I’m currently learning **HTML,SCSS(SASS),JavaScript,PHP and SQL**
+- 🎓 I’m currently learning **Python** and **Django**
 
 - 📫 How to reach me **balhorotman@gmail.com**
 
